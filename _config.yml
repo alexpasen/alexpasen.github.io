@@ -2,8 +2,8 @@ title: Alexandr Paseniuk profile
 email: a.a.pasenyuk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Something about my work.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "alexpasen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "http://alexpasen.github.io" # the subpath of your site, e.g. /blog
+url: "http://alexpasen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  alexpasen
 
