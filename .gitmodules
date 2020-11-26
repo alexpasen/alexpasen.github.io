@@ -1,3 +1,9 @@
 [submodule "src/themes/researcher"]
 	path = src/themes/researcher
 	url = https://github.com/ojroques/hugo-researcher.git
+[submodule "src/src/themes/terminal"]
+	path = src/src/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "src/themes/terminal"]
+	path = src/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
